@@ -29,7 +29,5 @@ flutter run -d emulator-5554
 julia
 julia1
 
-Ja jesm student
-
 127.0.0.1:5007
 192.169.0.227:5007
